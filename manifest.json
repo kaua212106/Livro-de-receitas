@@ -1,0 +1,20 @@
+{
+  "name": "Livro de Receitas",
+  "short_name": "Receitas",
+  "description": "Livro de receitas pessoal para cadastrar, colecionar, folhear e registrar suas receitas.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
+  "lang": "pt-BR",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icone.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
